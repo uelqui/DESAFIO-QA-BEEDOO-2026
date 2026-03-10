@@ -10,7 +10,7 @@ Análise e testes do módulo de cadastro e listagem de cursos.
 
 Sistema para cadastro, listagem e exclusão de cursos educacionais, com suporte a dois tipos — presencial e online — cada um com campos específicos no formulário.
 
----
+
 
 ## Fluxos disponíveis
 
@@ -19,7 +19,7 @@ Sistema para cadastro, listagem e exclusão de cursos educacionais, com suporte 
 - **Exclusão de curso** — remoção de cursos a partir da listagem
 - **Navegação** — alternância entre as telas pelo menu superior
 
----
+
 
 ## Pontos críticos para teste
 
