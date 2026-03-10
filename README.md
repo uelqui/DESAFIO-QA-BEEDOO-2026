@@ -34,5 +34,5 @@ Sistema para cadastro, listagem e exclusão de cursos educacionais, com suporte 
 
 ## Entregáveis
 
-- **Cenários de teste, execução e bugs:** planilha https://docs.google.com/spreadsheets/d/1q0AENJj_kCia1kGFj76d5CgiCGP1fjEiOLZVfYKyuhU/edit?usp=sharing
+- **Cenários de teste, execução e bugs:** https://docs.google.com/spreadsheets/d/1q0AENJj_kCia1kGFj76d5CgiCGP1fjEiOLZVfYKyuhU/edit?usp=sharing
 - **Evidências de execução:** https://drive.google.com/drive/folders/1lX1wjJGeisp1VupfjbapDkb9K_Qg6I1X?usp=sharing
